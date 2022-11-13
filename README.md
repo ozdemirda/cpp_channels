@@ -1,2 +1,2 @@
 # cpp_channels
-A humble c++ header-only channel implementation.
+A humble c++ (17+) header-only channel implementation.
