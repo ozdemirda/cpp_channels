@@ -1,6 +1,6 @@
 # cpp_channels
-A humble c++ (c++17 and onwards) header-only channel implementation that
-provides a similar functionality to golang channels.
+A humble c++ (c++17 and onwards) header-only, thread-safe channel
+implementation that provides a similar functionality to golang channels.
 
 A simple example would much more than I could explain in a long text:
 
