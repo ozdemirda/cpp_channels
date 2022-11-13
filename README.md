@@ -33,7 +33,7 @@ void thread_main(thread_comm::channel<char> & c) {
 }
 
 int main() {
-    // Declaring a duplex channel that can hold one undelivered messages
+    // Declaring a duplex channel that can hold one undelivered message
     // in both directions (These can be specified, and they should be
     // positive integers). The data that can be transferred by this channel
     // will have to be of type 'char'. Since this channel is declared in
