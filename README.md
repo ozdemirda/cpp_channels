@@ -120,5 +120,5 @@ writing into this channel.
 The four functions above are meant to be used for advanced pipelining scenarios,
 and they are mostly unnecessary for the majority of the normal use cases.
 
-Finally, special thanks to my good friend Korcan Ucar for reviewing and testing
-the header file.
+Finally, special thanks to my good friend Korcan Ucar (https://github.com/kucar)
+for reviewing and testing the header file.
